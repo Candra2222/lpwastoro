@@ -1,1 +1,39 @@
 
+/* Custom page CSS
+-------------------------------------------------- */
+/* Not required for template or sticky footer method. */
+
+.container {
+    width: auto;
+    max-width: 680px;
+    padding: 0 15px;
+    margin-top: 15px;
+
+  }
+  
+.footer {
+    background-color: transparan;
+  }
+
+body {
+    background-color: rgba(0, 0, 0, .5);
+    background-image: url("../images/bg2.gif");
+    background-size: cover;
+    background-position: center;
+    color: #ffffff;
+    text-align: center;
+}
+
+.a {
+    margin-top: 90px;
+    font-size: 25px;
+    
+}
+
+.tombol {
+    font-weight: bold;
+    border-radius: 20px;
+    background-color: rgba(236, 6, 6, 0.3);
+    border: 1px solid red;
+    font-size: 20px;
+}
